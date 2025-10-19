@@ -10,6 +10,8 @@ tags:
 
 Картинка, посвященная событиям в голосовом за 18.10.2025 22:30
 
+![churchkhela-accent.webp](https://gretmn102.github.io/ChurchkhelaAccent/churchkhela-accent.webp)
+
 Выбор:
 
 * Записаться к Туатаре на правильное произношение "чурчхела"
